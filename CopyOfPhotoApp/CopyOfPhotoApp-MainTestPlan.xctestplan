@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "CAACCA94-2854-420F-A637-04540C17FC84",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CopyOfPhotoApp.xcodeproj",
+        "identifier" : "B93BF8C3299ECB8B0056EABC",
+        "name" : "CopyOfPhotoAppTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:CopyOfPhotoApp.xcodeproj",
+        "identifier" : "B9B75FAA29AD53420098B07F",
+        "name" : "CopyOfPhotoAppUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
